@@ -1,9 +1,6 @@
 # SwiftUI-Animations-dipiro
 Animations created with SwiftUI
 
-## Reach me via
-[![Linkedin](https://raw.githubusercontent.com/Shubham0812/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/dmitry-pirozhnik/)
-
 # [Animated 3D Planet](https://github.com/dipiro/SwiftUI-3DPlanet-Animation)
 Keys: Rotation 3D, SceneKit, 3D Object, Lottie <br />
 <img src="https://github.com/user-attachments/assets/374d4b83-f780-4dd1-ac1a-c330c193d850" width="400" />
